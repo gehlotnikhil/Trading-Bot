@@ -11,7 +11,7 @@ This project is for **learning, experimentation, and small-amount testing only**
 ## ✨ System Design
 
 <p align="center">
-  <img src="assets/trading-bot-design.png" width="700"/>
+  <img src="assets/trading-bot-design.png" width="900"/>
 </p>
 
 ---
